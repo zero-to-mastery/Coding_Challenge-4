@@ -23,7 +23,7 @@ https://github.com/andragh83/Coding_Challenge_4
 https://github.com/VitoMendoza/CodeChallenge4
 https://github.com/turtleflyer/santa-puzzle
 https://github.com/pgakk/santaChallenge
-https://github.com/kamilucha123/codingChall4 This solution is solving both part's however fileReader isn't implemented.
+https://github.com/kamilucha123/codingChall4 
 https://github.com/SamirJouni/HelpingSantaWithNode
 https://github.com/golani04/coding-chalenge-4/tree/master/Day%201
 https://github.com/PvParisi/advent-of-code-2015
@@ -50,7 +50,7 @@ https://github.com/WapmasterRohan/Fun-Challenge
 
 ## Only answered first part of the challenge:
 https://github.com/brettCole/coding-challenge-4
-https://github.com/aparadox/ZTM-CodingChallenge4/ this person solved part 1 many different ways
+https://github.com/aparadox/ZTM-CodingChallenge4/
 https://github.com/Seimitsu/coding-challenge-4
 https://github.com/balabis/coding-challenge-4
 https://github.com/Chazzman/codeChallenge4
